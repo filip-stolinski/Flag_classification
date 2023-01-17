@@ -4,7 +4,7 @@
 
 If you just want to launch the application, no additional data is needed, you can skip to point Running an app.
 You can generate data by running python files listed below. You can also download zip file from:
-https://github.com/filip-stolinski/md
+https://github.com/filip-stolinski/Flag_data
 and unzip it in base directory of this project.
 
 ## Web scraping initial flag dataset
