@@ -3,9 +3,7 @@
 ## Data Availability
 
 If you just want to launch the application, no additional data is needed, you can skip to point Running an app.
-You can generate data by running python files listed below. You can also download zip file from:
-https://drive.google.com/file/d/1TCYs8i38u4kbz8IYy0FsI5h6HCefW-9o/view?usp=sharing
-and unzip it in base directory of this project.
+You can generate data by running python files listed below.
 
 ## Web scraping initial flag dataset
 
